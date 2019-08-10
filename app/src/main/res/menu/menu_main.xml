@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.teamcs.mm.myanmarhealth.MainActivity">
+    <item
+        android:id="@+id/action_auto_renew"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@mipmap/coin_icon"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_your_coins"
+        android:orderInCategory="100"
+        android:title="@string/action_your_coin"
+        android:icon="@mipmap/coin_icon"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_get_new_coins"
+        android:orderInCategory="100"
+        android:title="@string/action_get_new_coins"
+        android:icon="@mipmap/coin_icon"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about_app"
+        android:orderInCategory="100"
+        android:title="@string/action_about_app"
+        android:icon="@mipmap/ic_launcher_final"
+        app:showAsAction="never" />
+</menu>

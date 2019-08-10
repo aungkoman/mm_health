@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">က်န္းမာေရး</string>
+    <string name="action_settings">Get Coins</string>
+    <string name="action_your_coin">Your Coin (0) Coins</string>
+    <string name="banner1_ads_id">/6499/example/banner</string>
+    <string name="banner2_ads_id">/6499/example/banner</string>
+    <string name="banner1_ads_id_real">ca-app-pub-4224641533746813/8260544537</string>
+    <string name="banner2_ads_id_real">ca-app-pub-4224641533746813/8304776565</string>
+    <string name="app_id">ca-app-pub-4224641533746813~1845032190</string>
+    <string name="ads_test_device_id">56BA60CBC498754A2AA31298980C444C</string>
+
+
+    <string name="inter1_ads_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="inter1_ads_id_real">ca-app-pub-4224641533746813/4944950205</string>
+    <string name="inter2_ads_id_real">ca-app-pub-4224641533746813/9621851376</string>
+    <!-- ca-app-pub-4224641533746813/4944950205 inter code 1 -->
+    <!-- ca-app-pub-4224641533746813/3681291845 own code -->
+
+    <string name="reward_ads_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="reward_ads_id_real">ca-app-pub-4224641533746813/2105720797</string>
+    <string name="action_about_app">About App</string>
+
+    <string name="dialog_fire_missiles">dialog_fire_missiles</string>
+    <string name="dialog_fire">dialog_fire</string>
+    <string name="dialog_cancel">dialog_cancel</string>
+    <string name="remaining_coin">သင့္ လက္က်န္ coin : </string>
+    <string name="insufficient_coin">လက္က်န္ coin မလံုေလာက္ပါ \n ေအာက္ပါ ေၾကာ္ညာကို ႏွိပ္ျပီး Coin (၃)ခု ရယူပါ</string>
+    <string name="about_app_text">Myanmar Health Android App \n\n To get coin, you can watch ads video by clicking on COIN icon \n\n Credit to all author written these medical article \n\n Developed by TEAM CS 16 \n\n Your suggections are welcome. \n\n Contact US : teamcs16@gmail.com \n\n Facebook Page : https://facebook.com/teamcs16</string>
+
+    <string name="exit_greeting">ွApp မွ ထြက္ရန္ back ခလုပ္ကို ထပ္ႏိွပ္ေပးပါ</string>
+
+    <string name="getting_new_post">အသစ္မ်ား ရယူေနပါသည္....</string>
+
+    <string name="version">ဗားရွင္း ၁.၀ \n
+ထုတ္လုပ္သည့္ ရက္စြဲ ၂၀၁၉ ၾသဂုတ္လ ၉ ရက္</string>
+
+    <string name="dialog_title_out_of_coin">Running out of Coin</string>
+    <string name="dialog_content_out_of_coin">Get more coin? Watch the following ads video and get 10 coins</string>
+    <string name="dialog_ok_button">Get Coin</string>
+    <string name="dialog_cancel_button">No I want</string>
+    <string name="action_get_new_coins">Get Coins Free</string>
+</resources>
